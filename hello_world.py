@@ -1,8 +1,8 @@
 # Hello AI/ML Bootcamp!
 # Edit the variables below to introduce yourself
 
-name = "Your Name Here"
-fun_fact = "One fun fact about me"
+name = "Wendy Zhu"
+fun_fact = "I love gardening!"
 
 # Don't change anything below this line
 print(f"Hello! I'm {name}.")
